@@ -1,0 +1,43 @@
+/*
+    Here is a very rough, simple example of adding links to the sections of the page.
+    This has very basic styling - you should use your own.
+*/
+
+1.  Create a section on the page with the links
+
+   <section class="highlight-links section-spacing">
+
+      <div class="section-links">
+
+          <menu>
+            <li><a href="index.html#about">About the Zoo</a></li>
+            <li><a href="index.html#events">Events</a></li>
+            <li><a href="index.html#animals">Our Animals</a></li>
+            <li><a href="index.html#attractions">Attractions</a></li>
+            <li><a href="index.html#directions">Directions</a></li>  
+          </menu>
+          
+      </div>
+
+    </section>
+
+2. Add ID's to each section of the page 
+
+    Add "id=TODO" to each <section> you want to link to:
+
+    <section id="about">
+
+    Example:
+
+    <section id="about" class="highlight-about section-spacing">
+    <section id="events" class="highlight-events section-spacing">
+    <section id="animals" class="highlight-animals section-spacing">
+    <section id="attractions" class="highlight-attractions section-spacing">
+    <section id="directions" class="highlight-directions section-spacing">
+
+3. Style the links
+
+    You can make this look more like a nav bar.
+
+    
+
