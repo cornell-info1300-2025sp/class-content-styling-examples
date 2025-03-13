@@ -1,27 +1,20 @@
-# INFO 1300(SP25) - Activity - Media Query Practice
+# INFO 1300(SP25) - Activity - Content Styling Examples
 
-In this activity we will practice using media queries to make our site responsive.
-
+In this activity we will explore how to:
+- use google fonts
+- embed youtube video
+- add links to sections of the page
+- add a text overlay on an image
+  
 This is a practice activity; not for credit. Feel free to expand as inspired.
 
 ## Instructions 
 
-- Review the HTML and CSS and note:
-  - framing of the page content
-  - the flexboxes and their child elements
-  - the sizing, dimensional constraints, of flexboxes, their child elements, and their content (particularly images)
-  - the approach for picture citations
-
-- Sketch a plan for how we want things to respond
-  - header
-  - nav
-  - side-by-side content sections
-- figure out a breakpoint 
-- setup conditional CSS for 
-  - header
-  - nav
-  - side-by-side content sections
-- cleanup the styling for the narrow view
+- Review the site and the media query setup
+- Review the `gfonts-snippets.css`
+- Review the `embeds-snippets.css`
+- Review the `links-snippets.txt`
+- Review the `text-overlay-snippets.css`
 
 ## Coding Resources
 
